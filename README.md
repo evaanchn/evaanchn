@@ -1,5 +1,5 @@
 # Hello! I'm Evan
-<a href="www.linkedin.com/in/evan-chen-28a2252b8"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/evan-chen-28a2252b8"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I'm a Computer Science major based in Costa Rica, with a passion for understanding and learning about distinct programming-related concepts and problems.
