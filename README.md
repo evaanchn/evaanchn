@@ -8,12 +8,14 @@ I'm a Computer Science major based in Costa Rica, with a passion for understandi
 
 <h2 align="center">Academic Projects</h2>
 
-Project | Associated Course | Category |Description                                               |
-|--------|-------------------|----------|-----------|
-| <a href="https://github.com/evaanchn/stack_underflow/tree/main/projects/project_01_vessels">Vessels of Order</a>| Data Structures and Algorithms | Game | A BattleShip inspired game with BST's, hashmaps, and other search algorithms implemented into gameplay |
-| <a href="https://github.com/evaanchn/stack_underflow/tree/main/projects/project_02_conquest">Cosmo Conquest</a>| Data Structures and Algorithms | Game | Space game that implements graph traversal, pathfinding, and search algorithms |
-| <a href="https://github.com/evaanchn/stack_underflow/tree/main/projects/project_03_genetic_algorithm">Genetic Algorithms vs Exact Methods</a>| Data Structures and Algorithms | Exploratory | Code for an investigation comparing performance of genetic algorithms and exact methods like exhaustive recursion and dynamic programming|
-
+| Project | Associated Course | Category | Description |
+|---|---|---|---|
+| [Vessels of Order](https://github.com/evaanchn/stack_underflow/tree/main/projects/project_01_vessels) | Data Structures & Algorithms | Game | Developed a BattleShip inspired game with BST's, hashmaps, and other search algorithms implemented into gameplay |
+| [Cosmo Conquest](https://github.com/evaanchn/stack_underflow/tree/main/projects/project_02_conquest) | Data Structures & Algorithms | Game | Developed a space conquest game with graph traversal, pathfinding, and classical search algorithms |
+| [Genetic Algorithms vs Exact Methods](https://github.com/evaanchn/stack_underflow/tree/main/projects/project_03_genetic_algorithm) | Data Structures & Algorithms | Research | Investigated performance trade-offs between genetic algorithms and exact methods (recursion, dynamic programming) in optimization problems. |
+| [Heat Transfer Simulation](https://github.com/evaanchn/concurrente2025a-evan-chen/tree/main/homeworks) | Parallel & Concurrent Programming | Simulation | Created serial, concurrent, and distributed versions of a heat transfer simulation using pthreads, OpenMP (OMP), and Message Passing Interface (MPI). |
+| [Web Server](https://github.com/evaanchn/concurrente2025a-stockholm-syndrome/tree/main/web_server) | Parallel & Concurrent Programming | Network | Modified legacy code for a web server to add concurrency and distribution services to apps the server supports. |
+| [N Bodies Simulation](https://github.com/evaanchn/concurrente2025a-stockholm-syndrome/tree/main/nbody) | Parallel & Concurrent Programming | Simulation | Completed a program that simulates the behavior and interactions of n amount of spherical bodies in a three dimensional space, using distribution in account of exacerbating amounts of bodies. |
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 
